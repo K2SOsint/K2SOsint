@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-# 💫About Me :
+## 💫About Me :
 
 - 🌱 Learning new stuff every day!
 
