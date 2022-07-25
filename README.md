@@ -1,6 +1,4 @@
-### Hello there 👋
-
-<p align="center"><img width="480" height="208" src="https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8"/></p>
+<p align="center"><img width="480" height="208" src="https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif"></p>
 
 ## 💫About Me :
 
@@ -14,3 +12,4 @@
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henribeek) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/k_2sosint) 
+
