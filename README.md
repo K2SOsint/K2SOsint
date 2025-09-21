@@ -8,7 +8,7 @@ Hello there! 👋
 - 👯 Always happy to collaborate on **OSINT/CTI-related projects** or cool research experiments.  
 - 👨‍💻 Explore my work [here](https://github.com/K2SOsint?tab=repositories), some serious, some just for fun.  
 - 💬 Ask me about **OSINT**, networking, CTI basics, Sci-Fi universes, or just 🍕 + 🍺.
-- Any donations you make will be sent from me to the Children's Cancer Research Fund: [KiKa](https://KiKa.nl)
+- Every donation made through Ko-fi will be passed on in full to KiKa; the Children's Cancer Research Fund: [KiKa](https://KiKa.nl)
 
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T51LLYIO)  
 
