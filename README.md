@@ -7,7 +7,9 @@ Hello there! 👋
 - 🌱 Lifelong learner, currently diving deeper into **Cyber Threat Intelligence (CTI)** & **OSINT**.  
 - 👯 Always happy to collaborate on **OSINT/CTI-related projects** or cool research experiments.  
 - 👨‍💻 Explore my work [here](https://github.com/K2SOsint?tab=repositories), some serious, some just for fun.  
-- 💬 Ask me about **OSINT**, networking, CTI basics, Sci-Fi universes, or just 🍕 + 🍺.   
+- 💬 Ask me about **OSINT**, networking, CTI basics, Sci-Fi universes, or just 🍕 + 🍺.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T51LLYIO)   
 
 ---
 
